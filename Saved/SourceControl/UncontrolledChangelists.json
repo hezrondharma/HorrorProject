@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GProject/HorrorProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GProject/HorrorProject/Content/MainMenu.umap",
+				"D:/Unreal 5/UE_5.1/Engine/Content/EngineSky/SM_SkySphere.uasset",
+				"D:/GProject/HorrorProject/Content/Ui/POV.uasset",
+				"D:/GProject/HorrorProject/Content/Ui/MainMenu.uasset",
+				"D:/GProject/HorrorProject/Content/Ui/MenuClass.uasset",
 				"D:/GProject/HorrorProject/HorrorProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/GProject/HorrorProject/HorrorProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
